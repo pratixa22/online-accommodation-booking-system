@@ -1,0 +1,43 @@
+.pointer {
+  cursor: pointer;
+}
+.thumbnail-sm {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+}
+.logo-sm {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}
+.btn-square {
+  border-radius: 0;
+  /* height: 50px; */
+}
+.ant-modal-footer {
+  display: none;
+}
+
+.ant-select-selector {
+  height: 50px !important;
+}
+
+.ant-select-selection-placeholder,
+.ant-select-selection-item {
+  margin-top: 5px;
+}
+.imag-sm{
+  border-radius: 5px !important;
+}
+.footer {
+  position: fixed;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  width: 100em;
+  background-color:rgb(202, 199, 199);
+  color: white;
+  text-align: center;
+}
+  
